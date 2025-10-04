@@ -1,4 +1,4 @@
-# MaxInvPlugin 2.0 – Virtuelle Stacks & Auto-Lagerung
+# MaxInvPlugin 2.21.x – Virtuelle Stacks & Auto-Lagerung
 
 **/bag** öffnet ein virtuelles 54-Slot-Inventar, das beliebig viele Materialien speichert.
 
